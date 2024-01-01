@@ -1,2 +1,3 @@
-# WebDev-Javascript
-this is webdev location fil
+# WebDev 101
+
+This is the guide to becoming Full stack Developer.
